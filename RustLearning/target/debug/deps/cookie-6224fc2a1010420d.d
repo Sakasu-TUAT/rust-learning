@@ -1,0 +1,12 @@
+/home/sakasu/dev/rust-learning/RustLearning/target/debug/deps/cookie-6224fc2a1010420d.rmeta: /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/lib.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/builder.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/parse.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/jar.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/delta.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/draft.rs
+
+/home/sakasu/dev/rust-learning/RustLearning/target/debug/deps/libcookie-6224fc2a1010420d.rlib: /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/lib.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/builder.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/parse.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/jar.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/delta.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/draft.rs
+
+/home/sakasu/dev/rust-learning/RustLearning/target/debug/deps/cookie-6224fc2a1010420d.d: /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/lib.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/builder.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/parse.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/jar.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/delta.rs /home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/draft.rs
+
+/home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/lib.rs:
+/home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/builder.rs:
+/home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/parse.rs:
+/home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/jar.rs:
+/home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/delta.rs:
+/home/sakasu/.cargo/registry/src/index.crates.io-6f17d22bba15001f/cookie-0.14.4/src/draft.rs:
